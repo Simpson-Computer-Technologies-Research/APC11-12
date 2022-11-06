@@ -3,7 +3,7 @@
 
 # About
 - Learn the Javascript Programming Language
-- Learn wthe Svelte Framework
+- Learn the Svelte Framework
 
 
 # Week 13 and 14 Final Project
