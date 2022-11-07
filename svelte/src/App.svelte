@@ -12,6 +12,9 @@
     counter++;
   }
 
+  // Create a new list
+  let myList = [1, 2, 3, 4, 5];
+
 </script>
 
 
@@ -49,6 +52,31 @@
   <div id="my_div">
       <p>This is a paragraph wrapped in a div</p>
   </div>
+
+
+
+  <!-- Loop over that items in the myList variable-->
+  {#each myList as value}
+
+  
+    <!-- If statements-->
+    {#if value == 1}
+      <h2>Value is equal to one</h2>
+
+    {:else if value == 2}
+      <h2>Value is equal to two</h2>
+    
+    {:else}
+      <h2>Value is {value}</h2>
+
+
+    <!-- End of the if statement -->
+    {/if}
+
+
+  <!-- End of the loop -->
+  {/each}
+
 
 </main>
 
