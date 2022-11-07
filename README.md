@@ -17,7 +17,8 @@
 
 <h3>Project Must Include</h3>
 
-- Minimum of 1 user input
+- MUST BE A SVELTE PROJECT
+- Minimum of 1 button
 - Minimum of 1 list or dictionary variable
 - Minimum of 3 statements (if, else if, else)
 - Minimum of 2 for loops and 1 while loop
