@@ -1,0 +1,15 @@
+/* Using Styling IDS */
+#my_div {
+    background-color: blue;
+}
+
+/* Using Styling Classes */
+.my_header {
+    color: green;
+}
+
+/* Styling Every 'h2' Elements */
+h2 {
+    /* Use RGB */
+    color: rgb(255, 0, 0);
+}

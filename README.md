@@ -2,7 +2,7 @@
 ![maxresdefault](https://user-images.githubusercontent.com/75189508/194362463-7f25767e-9d8d-4240-a5f1-1134ebd8e734.jpg)
 
 # About
-- Learn the Javascript Programming Language
+- Learn HTML, CSS, and Some Javascript
 - Learn the Svelte Framework
 
 
